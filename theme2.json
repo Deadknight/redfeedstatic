@@ -1,0 +1,18 @@
+{
+    "overlayimage":"",
+    "overlaymargin":"",
+    "overlayheight":"",
+    "overlaywidth":"",
+    "overlaygravity":"",
+    "overlayscaletype":"",
+	"overlaymessage":"",
+    "underimage":"",
+    "undermargin":"",
+    "underheight":"",
+    "underwidth":"",
+    "undergravity":"",
+    "underscaletype":"",
+	"undermessage":"",
+	"toolbarbackground":"",
+    "toolbarbackgroundtile":""
+}
