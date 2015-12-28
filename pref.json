@@ -2,6 +2,7 @@
 
     "periodthemedata":{
         "theme0":{
+			"overlayimagebase" : "https://raw.githubusercontent.com/Deadknight/redfeedstatic/master/",
             "overlayimage":{
                 "120":"",
                 "160":"",
@@ -19,6 +20,7 @@
             "overlaygravity":8388611,
             "overlayscaletype":3,
             "overlaymessage":"",
+			"underimagebase" : "https://raw.githubusercontent.com/Deadknight/redfeedstatic/master/",
             "underimage":{
 				"120":"xmas/drawable-120/snowmanlight.9.png",
                 "160":"xmas/drawable-160/snowmanlight.9.png",
@@ -36,6 +38,7 @@
             "undergravity":8388613,
             "underscaletype":3,
             "undermessage":"",
+			"toolbarbackgroundbase" : "https://raw.githubusercontent.com/Deadknight/redfeedstatic/master/",
             "toolbarbackground":{
                 "120":"",
                 "160":"",
@@ -50,6 +53,7 @@
             "toolbarbackgroundtile":""
         },
         "theme1":{
+			"overlayimagebase" : "https://raw.githubusercontent.com/Deadknight/redfeedstatic/master/",
             "overlayimage":{
                 "120":"",
                 "160":"",
@@ -67,6 +71,7 @@
             "overlaygravity":8388611,
             "overlayscaletype":3,
             "overlaymessage":"",
+			"underimagebase" : "https://raw.githubusercontent.com/Deadknight/redfeedstatic/master/",
             "underimage":{
                 "120":"xmas/drawable-120/snowmandark.9.png",
                 "160":"xmas/drawable-160/snowmandark.9.png",
@@ -84,6 +89,7 @@
             "undergravity":8388613,
             "underscaletype":3,
             "undermessage":"",
+			"toolbarbackgroundbase" : "https://raw.githubusercontent.com/Deadknight/redfeedstatic/master/",
             "toolbarbackground":{
                 "120":"",
                 "160":"",
@@ -98,6 +104,7 @@
             "toolbarbackgroundtile":""
         },
         "theme3":{
+			"overlayimagebase" : "https://raw.githubusercontent.com/Deadknight/redfeedstatic/master/",
             "overlayimage":{
                 "120":"",
                 "160":"",
@@ -115,6 +122,7 @@
             "overlaygravity":8388611,
             "overlayscaletype":3,
             "overlaymessage":"",
+			"underimagebase" : "https://raw.githubusercontent.com/Deadknight/redfeedstatic/master/",
             "underimage":{
                 "120":"xmas/drawable-120/snowmandark.9.png",
                 "160":"xmas/drawable-160/snowmandark.9.png",
@@ -132,6 +140,7 @@
             "undergravity":8388613,
             "underscaletype":3,
             "undermessage":"",
+			"toolbarbackgroundbase" : "https://raw.githubusercontent.com/Deadknight/redfeedstatic/master/",
             "toolbarbackground":{
                 "120":"",
                 "160":"",
@@ -146,6 +155,7 @@
             "toolbarbackgroundtile":""
         },
         "theme-1":{
+			"overlayimagebase" : "",
             "overlayimage":{
                 "120":"",
                 "160":"",
@@ -163,6 +173,7 @@
             "overlaygravity":8388611,
             "overlayscaletype":3,
             "overlaymessage":"",
+			"underimagebase" : "",
             "underimage":{
                 "120":"",
                 "160":"",
@@ -180,6 +191,7 @@
             "undergravity":8388611,
             "underscaletype":3,
             "undermessage":"",
+			"toolbarbackgroundbase" : "",
             "toolbarbackground":{
                 "120":"",
                 "160":"",
@@ -194,6 +206,7 @@
             "toolbarbackgroundtile":""
         },
         "theme-2":{
+			"overlayimagebase" : "",
             "overlayimage":{
                 "120":"",
                 "160":"",
@@ -211,6 +224,7 @@
             "overlaygravity":8388611,
             "overlayscaletype":3,
             "overlaymessage":"",
+			"underimagebase" : "",
             "underimage":{
                 "120":"",
                 "160":"",
@@ -228,6 +242,7 @@
             "undergravity":8388611,
             "underscaletype":3,
             "undermessage":"",
+			"toolbarbackgroundbase" : "",
             "toolbarbackground":{
                 "120":"",
                 "160":"",
