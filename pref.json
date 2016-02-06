@@ -1,5 +1,6 @@
 {
-
+    "cMVA" : 23,
+    "cMVAP" : 23,
     "periodthemedata":{
         "theme0":{
 			"overlayimagebase" : "https://raw.githubusercontent.com/Deadknight/redfeedstatic/master/",
